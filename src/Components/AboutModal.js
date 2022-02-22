@@ -22,9 +22,8 @@ const Modal = props => {
                     onClick={closeModal}>&otimes;
              </span>
                 <img src={vlogo} alt='viness logo' style={{ height: '65px'}} /> <br /><br /><br />
-                <p>Viness provides bottle recommendations and wine pairings for your chosen ingredients,
-                as well as recipes for dishes that pair with your favorite varietals. </p> <p>
-                Save bottles to your profile, and see reviews and comments from other Viness users. </p>
+                <p>PairApp offers class recommendations and partner pairings for your chosen songs, as well as social dances. We pair people based on your favorite chosen songs. </p> <p>
+                Save classes to your profile, and see reviews and comments from other PairApp users.</p>
                  {/* <br />
                  <p style={{fontSize: 'small'}}>A. Norton 2020</p> */}
             </div>
